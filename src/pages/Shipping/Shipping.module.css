@@ -1,0 +1,43 @@
+.main .par{
+    color: #428130;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.main .img{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: #E7F2E4;
+    padding: 0px;
+    cursor: pointer;
+
+}
+
+.main{
+    border-radius: 24px;
+    border: 2px solid #E7E7E7;
+    background: #FFF;
+}
+.main .transShipping{
+    background: #F6FBF4;
+}
+.main h5{
+    color: #134A04;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.main h3{
+    color: #134A04;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}

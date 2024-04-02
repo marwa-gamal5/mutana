@@ -1,0 +1,290 @@
+@media only screen and (max-width: 600px) {
+
+    
+  *{
+      box-sizing: border-box;
+      padding: 0;
+      margin: 0;
+  }
+  
+  .langIcon{
+    color: #06AED2  !important;
+  }
+
+  .btnMainLogin{
+      background-color: transparent !important;
+      color: #06AED2 !important;
+      margin-left: 16px !important;
+      padding: 7px 14px !important;
+      border-radius: 5px !important;
+      transition: all 0.4s ease-in-out;
+      
+  }
+  
+  .btnMainLogin:hover{
+      background-color: transparent !important;
+      color:  #06AED2 !important;
+      border-color:#06AED2 !important;
+  }
+  
+  .btnMainRegister{
+      background-color: transparent !important;
+      color:  #06AED2 !important;
+      border-color:#06AED2 !important;
+      padding: 7px 14px !important;
+      border-radius: 5px !important;
+      transition: all 0.4s ease-in-out;
+      
+  }
+  
+  .btnMainRegister:hover{
+      background-color: transparent !important;
+      color: #06AED2 !important;
+      border-color:#FFFFFF !important;
+  }
+   
+}
+  
+/* ........................................................................   */
+@media only screen and (min-width: 600px) {
+  
+      
+  *{
+      box-sizing: border-box;
+      padding: 0;
+      margin: 0;
+  }
+  
+  .langIcon{
+  color: #06AED2  !important;
+}
+  .btnMainLogin{
+      background-color: transparent !important;
+      color: #06AED2 !important;
+      margin-left: 16px !important;
+      padding: 7px 14px !important;
+      border-radius: 5px !important;
+      transition: all 0.4s ease-in-out;
+      
+  }
+  
+  .btnMainLogin:hover{
+      background-color: transparent !important;
+      color:  #06AED2 !important;
+      border-color:#06AED2 !important;
+  }
+  
+  .btnMainRegister{
+      background-color: transparent !important;
+      color:  #06AED2 !important;
+      border-color:#06AED2 !important;
+      padding: 7px 14px !important;
+      border-radius: 5px !important;
+      transition: all 0.4s ease-in-out;
+      
+  }
+  
+  .btnMainRegister:hover{
+      background-color: transparent !important;
+      color: #06AED2 !important;
+      border-color:#FFFFFF !important;
+  }
+ 
+}
+  
+/* ........................................................................   */
+@media only screen and (min-width: 992px) {
+     
+  
+      *{
+          box-sizing: border-box;
+          padding: 0;
+          margin: 0;
+      }
+
+      .langIcon{
+        color: #06AED2  !important;
+      }
+    
+      .btnMainLogin{
+          background-color: transparent !important;
+          color: #06AED2 !important;
+          margin-left: 16px !important;
+          padding: 7px 14px !important;
+          border-radius: 5px !important;
+          transition: all 0.4s ease-in-out;
+          
+      }
+      
+      .btnMainLogin:hover{
+          background-color: transparent !important;
+          color:  #06AED2 !important;
+          border-color:#06AED2 !important;
+      }
+      
+      .btnMainRegister{
+          background-color: transparent !important;
+          color:  #06AED2 !important;
+          border-color:#06AED2 !important;
+          padding: 7px 14px !important;
+          border-radius: 5px !important;
+          transition: all 0.4s ease-in-out;
+          
+      }
+      
+      .btnMainRegister:hover{
+          background-color: transparent !important;
+          color: #06AED2 !important;
+          border-color:#FFFFFF !important;
+      }
+     
+}
+  
+/* ........................................................................   */
+@media only screen and (min-width: 1400px) {
+     
+  
+      *{
+          box-sizing: border-box;
+          padding: 0;
+          margin: 0;
+      }
+
+      .langIcon{
+        color: #06AED2  !important;
+      }
+   
+      .btnMainLogin{
+          background-color: transparent !important;
+          color: #06AED2 !important;
+          margin-left: 16px !important;
+          padding: 7px 14px !important;
+          border-radius: 5px !important;
+          transition: all 0.4s ease-in-out;
+          
+      }
+      
+      .btnMainLogin:hover{
+          background-color: transparent !important;
+          color:  #06AED2 !important;
+          border-color:#06AED2 !important;
+      }
+      
+      .btnMainRegister{
+          background-color: transparent !important;
+          color:  #06AED2 !important;
+          border-color:#06AED2 !important;
+          padding: 7px 14px !important;
+          border-radius: 5px !important;
+          transition: all 0.4s ease-in-out;
+          
+      }
+      
+      .btnMainRegister:hover{
+          background-color: transparent !important;
+          color: #06AED2 !important;
+          border-color:#FFFFFF !important;
+      }
+      
+ 
+}
+  
+
+/* 
+.myNav{
+  background: #FFFFFF;
+
+  box-shadow: 0px 16px 23px rgba(238, 238, 238, 0.44);
+  height: 78px;
+}
+.myNavbar{
+  background-color: #FFFFFF;
+  text-align: left;
+  padding-left: 10px;
+}
+
+
+.myNav .navBrand, .myNav .navLink{
+  color:#00261C !important;  
+}
+.myNav .navLink:active,
+.myNav .navLink:focus,
+.myNav .navLink:hover {
+    color: #1D1CE5 !important;
+}
+
+
+.myNav .navLink .active {
+    color:#1D1CE5!important;
+}
+
+.btnMainLogin, .btnMainRegister{
+ 
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: 14px !important;
+  line-height: 17px !important;
+ 
+  
+  letter-spacing: -0.02em !important;
+  
+  color: #1D1CE5 !important;
+  
+}
+
+.btnMainLogin:hover {
+  background: #FFFFFF !important;
+  border: 0.2px solid #B9B9B9 !important;
+  box-shadow: 0px 16px 23px rgba(238, 238, 238, 0.44) !important;
+}
+
+.btnMainRegister{
+  background: #FFFFFF !important;
+  border: 0.2px solid #B9B9B9 !important;
+  box-shadow: 0px 16px 23px rgba(238, 238, 238, 0.44) !important;
+  
+}
+
+
+
+.dropdown {
+    position: relative;
+  }
+  
+  .menu {
+    position: absolute;
+  
+    list-style-type: none;
+    margin: 5px 0;
+    padding: 0;
+  
+    border: 1px solid grey;
+    width: 150px;
+  }
+  
+  .menu > li {
+    margin: 0;
+  
+    background-color: white;
+  }
+  
+  .menu > li:hover {
+    background-color: lightgray;
+  }
+  
+  .menu > li > button {
+    width: 100%;
+    height: 100%;
+    text-align: left;
+  
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 5px;
+    margin: 0;
+    font: inherit;
+    cursor: pointer;
+  } */
+/* .myNavbar{
+  background-color: #f8f9fa;
+} */

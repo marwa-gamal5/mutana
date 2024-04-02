@@ -1,0 +1,88 @@
+@media only screen and (max-width: 600px){
+    .contain{
+        width:80%;
+        margin: auto;
+    }
+    .pull_left {
+        float: left;
+    }
+    
+    .btnCreate {
+        background: #FDFDFE;
+
+        border: 1px solid #ADCDEA;
+        border-radius: 8px;
+        color:#00517D;
+    }
+    .btnCreate:hover{
+        background: #FDFDFE;
+
+        border: 1px solid #ADCDEA;
+        border-radius: 8px;
+        color:#00517D;
+    }
+    
+    
+    .page_content strong,option{
+            color: var(--country) !important
+    }
+    
+    
+    .create_accont{
+        border: 2px solid #ddd;
+        padding: 1rem;
+        margin: 1rem;
+        border-radius: 8px;
+    }
+    
+    .create_accont:hover{
+        border-color:  rgb(11, 109, 227);
+    }
+    .pull_right{
+        float: right;
+    }
+}
+@media only screen and (min-width: 992px) {
+    .contain{
+        width:30%;
+        margin: auto;
+    }
+    .pull_left {
+        float: left;
+    }
+    
+    .btnCreate {
+        background: #FDFDFE;
+
+        border: 1px solid #ADCDEA;
+        border-radius: 8px;
+        color:#00517D;
+    }
+    .btnCreate:hover{
+        background: #FDFDFE;
+
+        border: 1px solid #ADCDEA;
+        border-radius: 8px;
+        color:#00517D;
+    }
+    
+    
+    .page_content strong,option{
+            color: var(--country) !important
+    }
+    
+    
+    .create_accont{
+        border: 2px solid #ddd;
+        padding: 1rem;
+        margin: 1rem;
+        border-radius: 8px;
+    }
+    
+    .create_accont:hover{
+        border-color:  rgb(11, 109, 227);
+    }
+    .pull_right{
+        float: right;
+    }
+}

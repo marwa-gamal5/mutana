@@ -1,0 +1,141 @@
+/* .container {
+    transform: translateY(-100%);
+} */
+
+.container p {
+    color: red;
+    text-align: center;
+}
+
+.drop_container {
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    background: #FDFDFE;
+    border: 1px solid #ADCDEA;
+    box-shadow: 0px 2px 4px rgba(0, 47, 73, 0.05);
+    border-radius: 8px; */
+    /* min-height: 580px; */
+}
+
+.upload_icon {
+    width: 50px;
+    height: 50px;
+    /* background: url() no-repeat center center;  */
+    background-repeat: no-repeat !important;
+    background-size: 100%;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.drop_message {
+    text-align: center;
+    color: #4aa1f3;
+    font-family: Arial;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.file_display_container {
+    position: fixed;
+    width: 100%;
+}
+
+.file_status_bar{
+    width: 50% ;
+    vertical-align:top;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    position: relative;
+    line-height: 58px;
+    height: 50px;
+}
+
+.file_status_bar > div {
+    overflow: hidden;
+}
+
+.file_type {
+    display: inline-block!important;
+    position: absolute;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 13px;
+    margin-top: 25px;
+    padding: 0 4px;
+    border-radius: 2px;
+    box-shadow: 1px 1px 2px #abc;
+    color: #fff;
+    background: #0080c8;
+    text-transform: uppercase;
+}
+
+.file_name {
+    display: inline-block;
+    vertical-align:top;
+    margin-left: 50px;
+    color: #4aa1f3;
+}
+
+.file_error {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 50px;
+    color: #9aa9bb;
+}
+
+.file_error_message {
+    color: red;
+}
+
+.file_type_logo {
+    width: 50px;
+    height: 50px;
+    /* background: url(../../img/generic.png) no-repeat center center;  */
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+    left: 80px;
+}
+
+.file_size {
+    display:inline-block;
+    vertical-align:top;
+    color:#30693D;
+    margin-left:10px;
+    margin-right:5px;
+    margin-left: 10px;
+    color: #444242;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.file_remove  {
+    position: absolute;
+    top: 20px;
+    right: 96px;
+    line-height: 15px;
+    cursor: pointer;
+    color: red;
+    margin-right: -10px;
+}
+
+.displayImg{
+    background: #FDFDFE;
+    border: 1px solid #ADCDEA;
+    border-radius: 8px;
+    /* min-height: 580px;
+    max-height: 580px;
+    overflow-y: scroll; */
+
+}
+
+.btnSave{
+    background: #00517D;
+    border-radius: 8px;
+    color: white;
+    padding: 5px 25px;
+}

@@ -1,0 +1,52 @@
+.main{
+    border-radius: 24px;
+    border: 2px solid #E7E7E7;
+    background: #FFF;
+}
+.label{
+    color: #0D2F04;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.hr{
+    height: 2px;
+    flex-shrink: 0;
+    background: #C3DABC;
+    color: #C3DABC ;
+    margin: 0;
+}
+.msg{
+    border-radius: 8px;
+    border: 1px solid #C3DABC;
+    background: #FDFFFC;
+}
+
+.msg h5{
+    color: #0D2F04;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.msg p{
+    color: #0D2F04;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.point {
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background-color: #000;
+    cursor: pointer;
+    margin: 2px;
+}
